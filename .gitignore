@@ -19,7 +19,6 @@ wdio/node_modules
 /src/config/index.ts
 .DS_Store
 .idea
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
@@ -39,3 +38,4 @@ node_modules/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+config.bat
